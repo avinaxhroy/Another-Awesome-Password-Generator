@@ -1,4 +1,4 @@
-# 🔐 My Password Generator (Windows)  
+# 🔐 Another Awesome Password Generator
 
 **Tired of searching for a password generator every time?**  
 I was too—so I built this for Windows!  
@@ -9,7 +9,7 @@ I was too—so I built this for Windows!
 ✅ No need to open a website—just install and go  
 
 ### 📥 Download  
-[⬇️ Click here to download](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO/releases/latest)  
+[![Download](https://img.shields.io/badge/⬇%20Download%20Now-blue?style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO/releases/latest)  
 
 ### 🛠️ Installation  
 1. Download the `.exe` file from the link above  
