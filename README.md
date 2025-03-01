@@ -9,7 +9,7 @@ I was too—so I built this for Windows!
 ✅ No need to open a website—just install and go  
 
 ### 📥 Download  
-[![Download](https://img.shields.io/badge/⬇%20Download%20Now-blue?style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO/releases/latest)  
+[![Download](http://avinas.me/wp-content/uploads/2025/03/down-button4.png)](https://github.com/avinaxhroy/Another-Awesome-Password-Generator/releases/latest)  
 
 ### 🛠️ Installation  
 1. Download the `.exe` file from the link above  
@@ -17,7 +17,7 @@ I was too—so I built this for Windows!
 3. Press **Ctrl + Alt + P** anytime to generate a password  
 
 ### 📸 Screenshots  
-![Screenshot](https://your-image-link.com)  
+![Screenshot](http://avinas.me/wp-content/uploads/2025/03/Screenshot-2025-03-01-112000.png)  
 
 ### 📜 License  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
