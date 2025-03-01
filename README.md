@@ -10,7 +10,7 @@ I was too—so I built this for Windows!
 
 ### 📥 Download  
 <a href="https://github.com/avinaxhroy/Another-Awesome-Password-Generator/releases/latest">
-    <img src="http://avinas.me/wp-content/uploads/2025/03/down-button42.png" alt="Download" width="200">
+    <img src="http://avinas.me/wp-content/uploads/2025/03/down-button42.png" alt="Download" width="150">
 </a>
 
 ### 🛠️ Installation  
@@ -19,4 +19,4 @@ I was too—so I built this for Windows!
 3. Press **Ctrl + Alt + P** anytime to generate a password  
 
 ### 📸 Screenshots  
-<img src="http://avinas.me/wp-content/uploads/2025/03/Screenshot-2025-03-01-112000.png" alt="Screenshot" width="600">
+<img src="http://avinas.me/wp-content/uploads/2025/03/Screenshot-2025-03-01-112000.png" alt="Screenshot" width="300">
