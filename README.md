@@ -9,7 +9,9 @@ I was too—so I built this for Windows!
 ✅ No need to open a website—just install and go  
 
 ### 📥 Download  
-[![Download](http://avinas.me/wp-content/uploads/2025/03/down-button42.png)](https://github.com/avinaxhroy/Another-Awesome-Password-Generator/releases/latest)  
+<a href="https://github.com/avinaxhroy/Another-Awesome-Password-Generator/releases/latest">
+    <img src="http://avinas.me/wp-content/uploads/2025/03/down-button42.png" alt="Download" width="200">
+</a>
 
 ### 🛠️ Installation  
 1. Download the `.exe` file from the link above  
@@ -17,4 +19,4 @@ I was too—so I built this for Windows!
 3. Press **Ctrl + Alt + P** anytime to generate a password  
 
 ### 📸 Screenshots  
-![Screenshot](http://avinas.me/wp-content/uploads/2025/03/Screenshot-2025-03-01-112000.png)  
+<img src="http://avinas.me/wp-content/uploads/2025/03/Screenshot-2025-03-01-112000.png" alt="Screenshot" width="600">
